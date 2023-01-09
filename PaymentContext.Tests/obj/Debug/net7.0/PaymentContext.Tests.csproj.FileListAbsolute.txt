@@ -1,3 +1,4 @@
+C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\testhost.dll
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\testhost.exe
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
@@ -85,6 +86,10 @@ C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Deb
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.dll
+C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.dll
+C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.pdb
+C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.pdb
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.csproj.AssemblyReference.cache
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.GeneratedMSBuildEditorConfig.editorconfig
@@ -97,8 +102,3 @@ C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\obj\Deb
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.pdb
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.genruntimeconfig.cache
 C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\obj\Debug\net7.0\ref\PaymentContext.Tests.dll
-C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.dll
-C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.dll
-C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.pdb
-C:\Users\Ramon\Desktop\GitHub\Modeling-rich-domains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.pdb
