@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "D6exmcEfK9v+phDqi5VpGdLaM5zghjTJ1TpM14GuP8orsiMx5pzcr28Qvs1Hth9i1UKuRcdRi3XniaFgiFYewQ==",
+  "dgSpecHash": "2bLUyFrN0lYEo1y0tvgj8EPaZz47LfAnp8BcWO25x8+JPtC1UD4IctuELmJweLvoYEI/FyqlmgoZxe3SFsCfuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ramon\\Desktop\\GitHub\\Modeling-rich-domains\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramon\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Ramon\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",
