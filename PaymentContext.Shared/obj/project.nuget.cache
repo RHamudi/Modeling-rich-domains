@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FZ6pC6eyUccoUzTTXeHCYXGmNyILD6jHR9Od0RQT/Htw7/kyXtiPyj8/tYo/XEsV3LAcg/jgtefQYiDZgZe8VQ==",
+  "dgSpecHash": "tfcMwkmlxNJYPWHH36Xi8SpNEPPKsTUyTTpMbh0Xl45fusr4/08itbUnlJmnpRKgNFjIAaW/6NWVDFRm2Jcjyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ramon\\Desktop\\GitHub\\Modeling-rich-domains\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramon\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
